@@ -5,7 +5,7 @@ Sano y Fresco es una empresa (ficticia) que vende comestibles orgánicos, la cu�
 2. Se crearon preguntas de negocio estratégicas, para entender cuál era el comportamiento financiero de la empresa.
 3. Esas preguntas se respondieron a través de consultas SQL.
 4. Se creó un dashboard en Power BI con la información más releventa obtenida, así como la exposición de KPIs.
-5. Con Python, se automatizó un análisis de la compra, para que en la página web de la empresa, se le sugiriera al usuario productos que probablemente compraría, según los que ya había añadido al carrito.
+5. Con Python, se automatizó un análisis de la canasta de la compra, para que en la página web de la empresa, se le sugiriera al usuario productos que probablemente compraría, según los que ya había añadido al carrito.
 
 La estrategia para aumentar las ventas consisitó en un análisis de la canasta de la compra.
 
